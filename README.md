@@ -8,6 +8,21 @@
 cd docker-compose up -d --build
 
 ```
+## - *URL de Acessos*
+
+- Site:
+
+```sh
+http://localhost:8000
+
+```
+
+- PhpMyAdmin:
+
+```sh
+http://localhost:8080
+
+```
 
 Está cansado de lidar com configurações complexas no desenvolvimento WordPress? 🌀
 No meu vídeo de hoje, vou te mostrar como usar Docker para criar ambientes WordPress prontos para o trabalho em minutos!
@@ -20,6 +35,11 @@ No meu vídeo de hoje, vou te mostrar como usar Docker para criar ambientes Word
 👉 Aprenda os segredos que os desenvolvedores profissionais já estão usando para transformar seus projetos WordPress.
 
 Não perca tempo, clique agora e domine o futuro do desenvolvimento com Docker! 🌟
+
+🌟 Acesse o Projeto no GitHub
+🔗 https://github.com/editoSilva/base_wp_docker
+
+
 
 
 LinkedIn
