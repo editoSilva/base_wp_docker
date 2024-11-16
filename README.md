@@ -24,6 +24,18 @@ http://localhost:8080
 
 ```
 
+- Login: 
+
+```sh
+  wordpress
+```
+
+- Senha: 
+
+```sh
+  wordpress
+```
+
 *Está cansado de lidar com configurações complexas no desenvolvimento WordPress? 🌀*
 *No meu vídeo de hoje, vou te mostrar como usar Docker para criar ambientes WordPress prontos para o trabalho em minutos!*
 
@@ -38,7 +50,6 @@ http://localhost:8080
 
 🌟 Acesse o Projeto no GitHub
 🔗 https://github.com/editoSilva/base_wp_docker
-
 
 
 
