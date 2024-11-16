@@ -1,4 +1,13 @@
-## *Base Docker - Wordpress*
+## - *Base Docker - Wordpress*
+
+## - Comando Utilizado
+
+*Copie e cole no terminal*
+
+```sh
+cd docker-compose up -d --build
+
+```
 
 Está cansado de lidar com configurações complexas no desenvolvimento WordPress? 🌀
 No meu vídeo de hoje, vou te mostrar como usar Docker para criar ambientes WordPress prontos para o trabalho em minutos!
