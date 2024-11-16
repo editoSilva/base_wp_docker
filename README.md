@@ -48,6 +48,8 @@ http://localhost:8080
 
 *Não perca tempo, clique agora e domine o futuro do desenvolvimento com Docker! 🌟*
 
+## Material do Projeto
+
 🌟 Acesse o Projeto no GitHub
 🔗 https://github.com/editoSilva/base_wp_docker
 
@@ -55,7 +57,7 @@ http://localhost:8080
 🔗 [Assista Aqui](https://www.youtube.com/watch?v=3nnCA_C7Zvk&t=282s)
 
 
-
+##Siga-nos
 
 LinkedIn
 🖥️ Conecte-se comigo no LinkedIn!

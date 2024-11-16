@@ -1,6 +1,5 @@
 version: '3.7'
 
-
 services:
   #Serviço de banco de dados dos nossos containers
   db:
