@@ -51,6 +51,10 @@ http://localhost:8080
 🌟 Acesse o Projeto no GitHub
 🔗 https://github.com/editoSilva/base_wp_docker
 
+🎥 Acesse o Vídeo da Aula
+🔗 [Assista Aqui](https://www.youtube.com/watch?v=3nnCA_C7Zvk&t=282s)
+
+
 
 
 LinkedIn
