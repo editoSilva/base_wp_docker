@@ -45,9 +45,11 @@ Não perca tempo, clique agora e domine o futuro do desenvolvimento com Docker! 
 LinkedIn
 🖥️ Conecte-se comigo no LinkedIn!
 👉 https://www.linkedin.com/in/editosilva/
+
 🎯 Vamos compartilhar conhecimento e crescer juntos na tecnologia!
 
 Instagram
 📸 Acompanhe os bastidores no Instagram!
 👉 https://www.instagram.com/dev.edito/
+
 🎥 Insights rápidos, dicas exclusivas e muito conteúdo de valor!
