@@ -20,3 +20,14 @@ No meu vídeo de hoje, vou te mostrar como usar Docker para criar ambientes Word
 👉 Aprenda os segredos que os desenvolvedores profissionais já estão usando para transformar seus projetos WordPress.
 
 Não perca tempo, clique agora e domine o futuro do desenvolvimento com Docker! 🌟
+
+
+LinkedIn
+🖥️ Conecte-se comigo no LinkedIn!
+👉 https://www.linkedin.com/in/editosilva/
+🎯 Vamos compartilhar conhecimento e crescer juntos na tecnologia!
+
+Instagram
+📸 Acompanhe os bastidores no Instagram!
+👉 https://www.instagram.com/dev.edito/
+🎥 Insights rápidos, dicas exclusivas e muito conteúdo de valor!
